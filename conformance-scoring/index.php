@@ -103,11 +103,11 @@
                                 echo "<td>" . htmlspecialchars($row['WCAG AA']) . "</td>";
 
 
-                                // Check if Accessibility data starts with "http"
-                                if (strpos($row['Accessibility'], 'http') === 0) {
-                                    echo "<td><a href='" . htmlspecialchars($row['Accessibility']) . "'>" . htmlspecialchars($row['Product']) . " Accessibility</a>";
+                                // Check if Accessibility Statement data starts with "http"
+                                if (strpos($row['Accessibility Statement'], 'http') === 0) {
+                                    echo "<td><a href='" . htmlspecialchars($row['Accessibility Statement']) . "'>" . htmlspecialchars($row['Product']) . " Accessibility Statement</a>";
                                 } else {
-                                    echo "<td>" . htmlspecialchars($row['Accessibility']) . "</td>";
+                                    echo "<td>" . htmlspecialchars($row['Accessibility Statement']) . "</td>";
                                 }
 
 
