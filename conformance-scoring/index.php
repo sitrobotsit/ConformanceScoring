@@ -102,7 +102,9 @@
 
                                 echo "<td>" . htmlspecialchars($row['PAS']) . "</td>";
                                 echo "<td>" . htmlspecialchars($row['Category']) . "</td>";
-                                echo "<td>" . htmlspecialchars($row['Accessible Percent']) . "</td>";
+                             
+                                echo "<td>" . htmlspecialchars(number_format($row['Accessible Percent'] * 100, 2)) . "%</td>";
+
                                  echo "<td>" . htmlspecialchars($row['WCAG A']) . "</td>";
                                 echo "<td>" . htmlspecialchars($row['WCAG AA']) . "</td>";
 
