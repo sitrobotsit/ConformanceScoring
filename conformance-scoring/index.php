@@ -71,7 +71,7 @@
                                 <th>Accessible Percent</th>
                                 <th>WCAG A</th>
                                 <th>WCAG AA</th>
-                                <th>Accessibility</th>
+                                <th>Accessibility Statement</th>
                                 <th>ACR</th>
                                 <th>VPAT</th>
                                 <th>VPAT details</th>
