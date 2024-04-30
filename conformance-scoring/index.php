@@ -66,9 +66,10 @@
                             <tr>
                                 <th>Vendor</th>
                                 <th>Product</th>
-                                <th>Score</th>
+                                <th>Rating</th>
                                 <th>Category</th>
-                                <th>WCAG Errors</th>
+                                <th>WCAG A</th>
+                                <th>WCAG AA</th>
                                 <th>Accessibility</th>
                                 <th>ACR</th>
                                 <th>VPAT</th>
