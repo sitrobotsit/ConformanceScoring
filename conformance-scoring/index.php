@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Accessibility Scoring</title>
+    <title>Product Accessibility List (PAL)</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nsw-design-system@3/dist/css/main.css">
     <script>
         function filterTable() {
@@ -32,7 +32,11 @@
     <div class="nsw-container">
         <div class="nsw-layout">
             <main class="nsw-layout__main">
-                <h1>Product Accessibility Score</h1>
+                <h1>Product Accessibility List (PAL)</h1>
+<ul><li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal/">Learn about the Product Accessibility List (PAL)</a> and how the scores are generated</li>
+<li>Provide feedback to OZeWAI PAL and how we can improve it</li>
+<li>Use the <a href="https://forms.gle/ioYRFMNWAyrHwmoi6">Send a product form</a> to share products for OZeWAI to score and add to the PAL</li>
+</ul>
 
                 <div class="nsw-form">
 
