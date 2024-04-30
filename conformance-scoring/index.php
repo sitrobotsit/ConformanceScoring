@@ -66,8 +66,9 @@
                             <tr>
                                 <th>Vendor</th>
                                 <th>Product</th>
-                                <th>Rating</th>
+                                <th>PAS</th>
                                 <th>Category</th>
+                                <th>Accessible Percent</th>
                                 <th>WCAG A</th>
                                 <th>WCAG AA</th>
                                 <th>Accessibility</th>
@@ -95,9 +96,11 @@
                                     echo "<td>" . htmlspecialchars($row['Product']) . "</td>";
                                 }
 
-                                echo "<td>" . htmlspecialchars($row['Score']) . "</td>";
+                                echo "<td>" . htmlspecialchars($row['PAS']) . "</td>";
                                 echo "<td>" . htmlspecialchars($row['Category']) . "</td>";
-                                echo "<td>" . htmlspecialchars($row['WCAG Errors']) . "</td>";
+                                echo "<td>" . htmlspecialchars($row['Accessible Percent']) . "</td>";
+                                 echo "<td>" . htmlspecialchars($row['WCAG A']) . "</td>";
+                                echo "<td>" . htmlspecialchars($row['WCAG AA']) . "</td>";
 
 
                                 // Check if Accessibility data starts with "http"
