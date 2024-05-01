@@ -34,11 +34,12 @@
             <main class="nsw-layout__main">
                 <h1>Product Accessibility List (PAL)</h1>
                 <ul>
-                    <li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal/">Learn
-                            about the Product Accessibility List (PAL)</a> and how the scores are generated</li>
-                    <li>Provide feedback to OZeWAI PAL and how we can improve it</li>
-                    <li>Use the <a href="https://forms.gle/ioYRFMNWAyrHwmoi6">Send a product form</a> to share products
-                        for OZeWAI to score and add to the PAL</li>
+                    <li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal/">Read
+                            about the Product Accessibility List (PAL)</a> and how  products are scored</li>
+                    <li>Complete the <a href="https://forms.gle/ioYRFMNWAyrHwmoi6">Send a product form</a> to share products
+                        for OZeWAI to score and add to the PAL.</li>
+                    <li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal#PAL-feedback">Provide feedback about the OZeWAI PAL</a>, how we can improve it and how vendors can update their information.</li>
+                    
                 </ul>
 
                 <div class="nsw-form">
