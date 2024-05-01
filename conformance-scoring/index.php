@@ -80,8 +80,7 @@
                                 <th>WCAG A</th>
                                 <th>WCAG AA</th>
                                 <th>Accessibility Statement</th>
-                                <th>ACR</th>
-                                <th>VPAT</th>
+                                <th>Accessibility Conformance Report (ACR)</th>
                                 <th>VPAT details</th>
 
 
@@ -124,20 +123,11 @@
 
 
                                 // Check if ACR data starts with "http"
-                                if (strpos($row['ACR'], 'http') === 0) {
-                                    echo "<td><a href='" . htmlspecialchars($row['ACR']) . "'>" . htmlspecialchars($row['Product']) . " ACR</a>";
+                                if (strpos($row['Accessibility Conformance Report (ACR)'], 'http') === 0) {
+                                    echo "<td><a href='" . htmlspecialchars($row['Accessibility Conformance Report (ACR)']) . "'>" . htmlspecialchars($row['Product']) . " Accessibility Conformance Report (ACR)</a>";
                                 } else {
-                                    echo "<td>" . htmlspecialchars($row['ACR']) . "</td>";
+                                    echo "<td>" . htmlspecialchars($row['Accessibility Conformance Report (ACR)']) . "</td>";
                                 }
-
-                                // Check if VPAT data starts with "http"
-                                if (strpos($row['VPAT'], 'http') === 0) {
-                                    echo "<td><a href='" . htmlspecialchars($row['VPAT']) . "'>" . htmlspecialchars($row['Product']) . " VPAT</a>";
-                                } else {
-                                    echo "<td>" . htmlspecialchars($row['VPAT']) . "</td>";
-                                }
-
-                                echo "<td>" . htmlspecialchars($row['VPAT details']) . "</td>";
 
                                 echo "</tr>";
                             }
