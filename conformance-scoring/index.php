@@ -74,7 +74,7 @@
                             <tr>
                                 <th>Vendor</th>
                                 <th>Product</th>
-                                <th>PAS</th>
+                                <th>PAL Risk Rating</th>
                                 <th>Category</th>
                                 <th>Accessible Percent</th>
                                 <th>WCAG A</th>
