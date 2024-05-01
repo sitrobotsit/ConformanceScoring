@@ -104,7 +104,7 @@
                                     echo "<td>" . htmlspecialchars($row['Product']) . "</td>";
                                 }
 
-                                echo "<td>" . htmlspecialchars($row['PAS']) . "</td>";
+                                echo "<td>" . htmlspecialchars($row['PAL Risk Rating']) . "</td>";
                                 echo "<td>" . htmlspecialchars($row['Category']) . "</td>";
 
                                 echo "<td>" . htmlspecialchars($row['Accessible Percent'] * 100) . "%</td>";
