@@ -33,6 +33,7 @@
         <div class="nsw-layout">
             <main class="nsw-layout__main">
                 <h1>Product Accessibility List (PAL)</h1>
+               <p>Date products recorded: 1 May 2024</p>
                 <ul>
                     <li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal/">Read
                             about the Product Accessibility List (PAL)</a> and how  products are scored</li>
