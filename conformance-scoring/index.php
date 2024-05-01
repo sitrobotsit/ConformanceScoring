@@ -129,7 +129,7 @@
                                 } else {
                                     echo "<td>" . htmlspecialchars($row['Accessibility Conformance Report (ACR)']) . "</td>";
                                 }
-                             echo "<td>" . htmlspecialchars($row['VPAT details']) . "</td>"
+                             echo "<td>" . htmlspecialchars($row['VPAT details']) . "</td>";
                                 echo "</tr>";
                             }
                             ?>
