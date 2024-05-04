@@ -5,7 +5,7 @@
   "Product": "Monday",
   "Product URL": "https://monday.com/",
   "Category": "Project and team management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -22,7 +22,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Asana.com",
@@ -30,7 +32,7 @@
   "Product": "Asana",
   "Product URL": "https://asana.com/",
   "Category": "Project and team management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -47,7 +49,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": " ",
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "ServiceNow.com",
@@ -55,7 +59,7 @@
   "Product": "ServiceNow IT Asset Management",
   "Product URL": "https://www.servicenow.com/",
   "Category": "Client and case management",
-  "PAL Risk Rating": "Lower risk",
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.86,
   "Score": 7.0,
   "WCAG A": 4.0,
@@ -72,7 +76,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "ServiceNow.com",
@@ -80,7 +86,7 @@
   "Product": "ServiceNow Platform Service Portal",
   "Product URL": "https://www.servicenow.com/au/products/service-portal.html",
   "Category": "Client and case management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.7,
   "Score": 15.0,
   "WCAG A": 8.0,
@@ -97,7 +103,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Miro.com",
@@ -105,7 +113,7 @@
   "Product": "Miro",
   "Product URL": "https://miro.com/",
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.74,
   "Score": 13.0,
   "WCAG A": 8.0,
@@ -122,7 +130,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Mural.co",
@@ -130,7 +140,7 @@
   "Product": "Mural",
   "Product URL": "http://mural.co/",
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.52,
   "Score": 24.0,
   "WCAG A": 14.0,
@@ -147,7 +157,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Figma.com",
@@ -155,7 +167,7 @@
   "Product": "Figma",
   "Product URL": "https://www.figma.com/",
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -172,7 +184,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Canva.com",
@@ -180,7 +194,7 @@
   "Product": "Canva",
   "Product URL": "https://www.canva.com/",
   "Category": "Media and image creation",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.62,
   "Score": 19.0,
   "WCAG A": 12.0,
@@ -197,7 +211,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -205,7 +221,7 @@
   "Product": "Teams (Web)",
   "Product URL": null,
   "Category": "Remote work solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.7,
   "Score": 15.0,
   "WCAG A": 9.0,
@@ -222,7 +238,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -230,7 +248,7 @@
   "Product": "Teams (Win32)",
   "Product URL": null,
   "Category": "Remote work solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.68,
   "Score": 16.0,
   "WCAG A": 10.0,
@@ -247,7 +265,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -255,7 +275,7 @@
   "Product": "Outlook",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.9,
   "Score": 5.0,
   "WCAG A": 2.0,
@@ -272,7 +292,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -280,7 +302,7 @@
   "Product": "Excel (Office 365)",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.9,
   "Score": 5.0,
   "WCAG A": 3.0,
@@ -297,7 +319,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -305,7 +329,7 @@
   "Product": "Excel (Web)",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.98,
   "Score": 1.0,
   "WCAG A": 1.0,
@@ -322,7 +346,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -330,7 +356,7 @@
   "Product": "Powerpoint (Office 365)",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.86,
   "Score": 7.0,
   "WCAG A": 5.0,
@@ -347,7 +373,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -355,7 +383,7 @@
   "Product": "Powerpoint (Web)",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Medium Risk",
   "Accessible Percent": 0.84,
   "Score": 8.0,
   "WCAG A": 5.0,
@@ -372,7 +400,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -380,7 +410,7 @@
   "Product": "Sharepoint",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.68,
   "Score": 16.0,
   "WCAG A": 9.0,
@@ -397,7 +427,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -405,7 +437,7 @@
   "Product": "Word (Office 365)",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.76,
   "Score": 12.0,
   "WCAG A": 7.0,
@@ -422,7 +454,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Microsoft.com",
@@ -430,7 +464,7 @@
   "Product": "Word (Web)",
   "Product URL": null,
   "Category": "Enterprise, other productivity and cloud solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.74,
   "Score": 13.0,
   "WCAG A": 7.0,
@@ -447,7 +481,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Zoom.com",
@@ -455,7 +491,7 @@
   "Product": "Zoom",
   "Product URL": null,
   "Category": "Remote work solutions",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.86,
   "Score": 7.0,
   "WCAG A": 4.0,
@@ -472,7 +508,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Okta",
@@ -480,7 +518,7 @@
   "Product": "Okta Verify",
   "Product URL": null,
   "Category": "Cyber security",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Medium Risk",
   "Accessible Percent": 0.82,
   "Score": 9.0,
   "WCAG A": 7.0,
@@ -497,7 +535,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Okta",
@@ -505,7 +545,7 @@
   "Product": "Okta Web",
   "Product URL": null,
   "Category": "Cyber security",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.74,
   "Score": 13.0,
   "WCAG A": 11.0,
@@ -522,7 +562,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "EasyRetro.io",
@@ -530,7 +572,7 @@
   "Product": "EasyRetro",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -547,7 +589,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Dropbox.com",
@@ -555,7 +599,7 @@
   "Product": "Dropbox (Web)",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.64,
   "Score": 18.0,
   "WCAG A": 12.0,
@@ -572,7 +616,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.5
+  "VPAT version": 2.5,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Dropbox.com",
@@ -580,7 +626,7 @@
   "Product": "Dropbox (Desktop Mac)",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Medium Risk",
   "Accessible Percent": 0.82,
   "Score": 9.0,
   "WCAG A": 7.0,
@@ -597,7 +643,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.5
+  "VPAT version": 2.5,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Dropbox.com",
@@ -605,7 +653,7 @@
   "Product": "Dropbox (Desktop Windows)",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.88,
   "Score": 6.0,
   "WCAG A": 6.0,
@@ -622,7 +670,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.5
+  "VPAT version": 2.5,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Dropbox.com",
@@ -630,7 +680,7 @@
   "Product": "Dropbox (iOS)",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.74,
   "Score": 13.0,
   "WCAG A": 9.0,
@@ -647,7 +697,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.5
+  "VPAT version": 2.5,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Dropbox.com",
@@ -655,7 +707,7 @@
   "Product": "Dropbox (Android)",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "High Risk",
   "Accessible Percent": 0.76,
   "Score": 12.0,
   "WCAG A": 7.0,
@@ -672,7 +724,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.5
+  "VPAT version": 2.5,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Slack.com",
@@ -680,7 +734,7 @@
   "Product": "Slack",
   "Product URL": null,
   "Category": "Project and team management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -697,7 +751,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Xero.com",
@@ -705,7 +761,7 @@
   "Product": "Xero",
   "Product URL": null,
   "Category": "People, culture and governance",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -722,7 +778,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Clickup.com",
@@ -730,7 +788,7 @@
   "Product": "ClickUp",
   "Product URL": null,
   "Category": "Project and team management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -747,7 +805,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Practera.com",
@@ -755,7 +815,7 @@
   "Product": "Practera",
   "Product URL": null,
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -772,7 +832,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Jaggaer.com",
@@ -780,7 +842,7 @@
   "Product": "Advantage One Application",
   "Product URL": null,
   "Category": "Project and team management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -797,7 +859,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "MAXQDA.com",
@@ -805,7 +869,7 @@
   "Product": "MAXQDA",
   "Product URL": "https://www.maxqda.com/products/maxqda",
   "Category": "Data analytics and AI",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -822,7 +886,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "MAXQDA.com",
@@ -830,7 +896,7 @@
   "Product": "MAXQDA Analytics Pro",
   "Product URL": "https://www.maxqda.com/products/maxqda-analytics-pro",
   "Category": "Data analytics and AI",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -847,7 +913,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -855,7 +923,7 @@
   "Product": "Access: staff member experience",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/access",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -872,7 +940,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -880,7 +950,7 @@
   "Product": "Advocate staff and Student member experience",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/advocate",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -897,7 +967,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -905,7 +977,7 @@
   "Product": "Accommodate",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/accommodate",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -922,7 +994,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -930,7 +1004,7 @@
   "Product": "Career Services Manager: student, faculty, and employer experience",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/csm",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -947,7 +1021,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -955,7 +1031,7 @@
   "Product": "Career Services Manager: staff member experience",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/csm",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -972,7 +1048,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -980,7 +1058,7 @@
   "Product": "CareerHub",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/careerhub",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -997,7 +1075,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Symplicity.com",
@@ -1005,7 +1085,7 @@
   "Product": "UniHub",
   "Product URL": "https://www.symplicity.com/higher-ed/solutions/unihub/student-engagement-and-skills-development",
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -1022,7 +1102,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Qualtrics.com",
@@ -1030,7 +1112,7 @@
   "Product": "Qualtrics Survey Engine",
   "Product URL": null,
   "Category": "UX and research tools",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.98,
   "Score": 1.0,
   "WCAG A": 0.0,
@@ -1047,7 +1129,9 @@
   "Caveat": "Only part of the product",
   "Australian company": "No",
   "Vendor comment": "In relation to Qualtrics, the consensus is that the front end of the survey, where users submit data, can be made accessible, as long as you use the right types of survey questions. Qualtrics has a list of accessible and inaccessible question types. The survey creator part of Qualtics is not regarded as accessible to screen reader users.",
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Canvas.com",
@@ -1055,7 +1139,7 @@
   "Product": "Canvas",
   "Product URL": null,
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.88,
   "Score": 6.0,
   "WCAG A": 3.0,
@@ -1072,7 +1156,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "ukg.com",
@@ -1080,7 +1166,7 @@
   "Product": "UKG Dimensions",
   "Product URL": null,
   "Category": "Learning management system",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.58,
   "Score": 21.0,
   "WCAG A": 12.0,
@@ -1097,7 +1183,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1105,7 +1193,7 @@
   "Product": "Snagit 2024",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": 11.0,
@@ -1122,7 +1210,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1130,7 +1220,7 @@
   "Product": "Camtasia",
   "Product URL": null,
   "Category": "Media and image creation",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.58,
   "Score": 21.0,
   "WCAG A": 10.0,
@@ -1147,7 +1237,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1155,7 +1247,7 @@
   "Product": "Camtasia",
   "Product URL": null,
   "Category": "Media and image creation",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.6,
   "Score": 20.0,
   "WCAG A": 10.0,
@@ -1172,7 +1264,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1180,7 +1274,7 @@
   "Product": "Audiate",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.6,
   "Score": 20.0,
   "WCAG A": 12.0,
@@ -1197,7 +1291,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1205,7 +1301,7 @@
   "Product": "Audiate",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.62,
   "Score": 19.0,
   "WCAG A": 11.0,
@@ -1222,7 +1318,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1230,7 +1328,7 @@
   "Product": "Screencast",
   "Product URL": null,
   "Category": "Content and communications",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.88,
   "Score": 6.0,
   "WCAG A": 4.0,
@@ -1247,7 +1345,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "TechSmith.com",
@@ -1255,7 +1355,7 @@
   "Product": "Knowmia",
   "Product URL": null,
   "Category": "Collaboration and visuals",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Low Risk",
   "Accessible Percent": 0.88,
   "Score": 6.0,
   "WCAG A": 6.0,
@@ -1272,7 +1372,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": "Independent manual evaluation conducted by Michigan State University Usability/Accessibility Research & Consulting using assistive technologies (keyboard, NVDA screen reader) on Microsoft Windows 10",
-  "VPAT version": 2.4
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Radancy.com",
@@ -1280,7 +1382,7 @@
   "Product": "Radancy Talent Acquisition Cloud",
   "Product URL": null,
   "Category": "People, culture and governance",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.56,
   "Score": 22.0,
   "WCAG A": null,
@@ -1297,7 +1399,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Atlassian.com",
@@ -1305,7 +1409,7 @@
   "Product": "Confluence",
   "Product URL": "https://www.atlassian.com/software/confluence",
   "Category": "Content and communications",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.48,
   "Score": 26.0,
   "WCAG A": 16.0,
@@ -1322,7 +1426,9 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
 },
 {
   "Vendor": "Atlassian.com",
@@ -1330,7 +1436,7 @@
   "Product": "Jira",
   "Product URL": "https://www.atlassian.com/software/confluence",
   "Category": "Project and team management",
-  "PAL Risk Rating": null,
+  "PAL Risk Rating": "Very High Risk",
   "Accessible Percent": 0.44,
   "Score": 28.0,
   "WCAG A": 17.0,
@@ -1347,7 +1453,225 @@
   "Caveat": null,
   "Australian company": "No",
   "Vendor comment": null,
-  "VPAT version": null
+  "VPAT version": null,
+  "column_23": null,
+  "column_24": null
+},
+{
+  "Vendor": "GrackleDocs.com",
+  "Vendor URL": "https://www.grackledocs.com/",
+  "Product": "GrackleDocs (Google extention/plugin)",
+  "Product URL": "https://www.grackledocs.com/",
+  "Category": "Content and communications",
+  "PAL Risk Rating": "High Risk",
+  "Accessible Percent": 0.74,
+  "Score": 13.0,
+  "WCAG A": 6.0,
+  "WCAG AA": 7.0,
+  "Accessibility Statement": null,
+  "Accessibility Conformance Report (ACR)": "https://www.grackledocs.com/wp-content/uploads/2024/02/GrackleDocs-VPAT.pdf",
+  "Software version": "GrackleDocs (Google extention/plugin)",
+  "ACR Date": 44806.0,
+  "Author": "Amanda Mace",
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Gmail",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Very High Risk",
+  "Accessible Percent": 0.6,
+  "Score": 20.0,
+  "WCAG A": 11.0,
+  "WCAG AA": 9.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Gmail",
+  "ACR Date": 45147.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": "https://about.google/belonging/accessibility-conformance-reports/"
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Google Drive",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Very High Risk",
+  "Accessible Percent": 0.62,
+  "Score": 19.0,
+  "WCAG A": 12.0,
+  "WCAG AA": 7.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Drive",
+  "ACR Date": 45013.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Google Docs",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Medium Risk",
+  "Accessible Percent": 0.8,
+  "Score": 10.0,
+  "WCAG A": 4.0,
+  "WCAG AA": 6.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Docs",
+  "ACR Date": 45019.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": "Great user journeys"
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Google Sheets",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Very High Risk",
+  "Accessible Percent": 0.54,
+  "Score": 23.0,
+  "WCAG A": 14.0,
+  "WCAG AA": 9.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Sheets",
+  "ACR Date": 45202.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Google Slides",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Very High Risk",
+  "Accessible Percent": 0.64,
+  "Score": 18.0,
+  "WCAG A": 10.0,
+  "WCAG AA": 8.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Slides",
+  "ACR Date": 45156.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Google Forms",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Very High Risk",
+  "Accessible Percent": 0.62,
+  "Score": 19.0,
+  "WCAG A": 11.0,
+  "WCAG AA": 8.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Forms",
+  "ACR Date": 45001.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
+},
+{
+  "Vendor": "Google.com",
+  "Vendor URL": "https://google.com",
+  "Product": "Google Sites",
+  "Product URL": null,
+  "Category": "Enterprise, other productivity and cloud solutions",
+  "PAL Risk Rating": "Very High Risk",
+  "Accessible Percent": 0.58,
+  "Score": 21.0,
+  "WCAG A": 11.0,
+  "WCAG AA": 10.0,
+  "Accessibility Statement": "Google Accessibility Statement",
+  "Accessibility Conformance Report (ACR)": "https://about.google/belonging/accessibility-conformance-reports/",
+  "Software version": "Google Sites",
+  "ACR Date": 45281.0,
+  "Author": null,
+  "WCAG version": 2.1,
+  "Roadmap": null,
+  "Support": null,
+  "Issues/bug tracking": null,
+  "Caveat": null,
+  "Australian company": "No",
+  "Vendor comment": null,
+  "VPAT version": 2.4,
+  "column_23": null,
+  "column_24": null
 }
 ]
 
