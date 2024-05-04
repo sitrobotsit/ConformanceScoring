@@ -32,7 +32,7 @@
     <div class="nsw-container">
         <div class="nsw-layout">
             <main class="nsw-layout__main">
-                <h1>Product Accessibility List (PAL)</h1>
+                <h1>Product Accessibility List (PAL) - BETA</h1>
                 <p>Date products recorded: 1 May 2024</p>
                 <ul>
                     <li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal/">Read
@@ -47,8 +47,14 @@
 
                 </ul>
 
-                <div class="nsw-form">
+                <p>Disclaimer:</p>
+<ul>
+    <li>PAL is best used at the Market Scan phase of the Procurement process.</li>
+<li>PAL is designed to offer an initial comparison and is not intended to replace a more detailed assessment of product accessibility during the procurement process.</li>
+<li>A PAL score may be out of date with a product’s latest ACR.</li>
+</ul>
 
+                <div class="nsw-form">
 
                     <div class="nsw-form__group">
                         <label class="nsw-form__label" for="categoryFilter">Filter by Category:</label>
