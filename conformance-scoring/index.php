@@ -32,6 +32,7 @@
     <div class="nsw-container">
         <div class="nsw-layout">
             <main class="nsw-layout__main">
+<span class="site-logo-img"><a href="https://ozewai.org/" class="custom-logo-link" rel="home" aria-current="page"><img width="267" height="68" src="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png" class="custom-logo" alt="OZeWAI" decoding="async" srcset="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png 267w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-300x77.png 300w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1.png 447w" sizes="(max-width: 267px) 100vw, 267px"></a></span>
                 <h1>Product Accessibility List (PAL) - BETA</h1>
                 <p>Date products recorded: 1 May 2024</p>
                 <ul>
