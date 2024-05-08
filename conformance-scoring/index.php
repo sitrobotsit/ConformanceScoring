@@ -14,7 +14,7 @@
             var tr = table.getElementsByTagName('tr');
 
             for (var i = 1; i < tr.length; i++) {
-                var td = tr[i].getElementsByTagName('td')[3]; // Adjusted to the 8th column for Category
+                var td = tr[i].getElementsByTagName('td')[2]; // Adjusted to the column for Category
                 if (td) {
                     var textValue = td.textContent || td.innerText;
                     if (textValue.indexOf(selectedValue) > -1 || selectedValue === 'All') {
@@ -32,7 +32,12 @@
     <div class="nsw-container">
         <div class="nsw-layout">
             <main class="nsw-layout__main">
-<span class="site-logo-img"><a href="https://ozewai.org/" class="custom-logo-link" rel="home" aria-current="page"><img width="267" height="68" src="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png" class="custom-logo" alt="OZeWAI" decoding="async" srcset="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png 267w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-300x77.png 300w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1.png 447w" sizes="(max-width: 267px) 100vw, 267px"></a></span>
+                <span class="site-logo-img"><a href="https://ozewai.org/" class="custom-logo-link" rel="home"
+                        aria-current="page"><img width="267" height="68"
+                            src="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png"
+                            class="custom-logo" alt="OZeWAI" decoding="async"
+                            srcset="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png 267w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-300x77.png 300w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1.png 447w"
+                            sizes="(max-width: 267px) 100vw, 267px"></a></span>
                 <h1>Product Accessibility List (PAL) - BETA</h1>
                 <p>Date products recorded: 1 May 2024</p>
                 <ul>
@@ -49,11 +54,12 @@
                 </ul>
 
                 <p>Disclaimer:</p>
-<ul>
-    <li>PAL is best used at the Market Scan phase of the Procurement process.</li>
-<li>PAL is designed to offer an initial comparison and is not intended to replace a more detailed assessment of product accessibility during the procurement process.</li>
-<li>A PAL score may be out of date with a product’s latest ACR.</li>
-</ul>
+                <ul>
+                    <li>PAL is best used at the Market Scan phase of the Procurement process.</li>
+                    <li>PAL is designed to offer an initial comparison and is not intended to replace a more detailed
+                        assessment of product accessibility during the procurement process.</li>
+                    <li>A PAL score may be out of date with a product’s latest ACR.</li>
+                </ul>
 
                 <div class="nsw-form">
 
@@ -64,7 +70,7 @@
                             <option value="All">All</option>
                             <?php
 
-                            // $jsonData = file_get_contents('conformance-data.json');
+                            // URL of the data
                             $jsonData = file_get_contents('https://raw.githubusercontent.com/sitrobotsit/ConformanceScoring/main/conformance-scoring/conformance-data.json');
                             $data = json_decode($jsonData, true);
                             $categories = array_unique(array_column($data, 'Category'));
@@ -84,34 +90,35 @@
                     <table id="dataTable">
                         <thead>
                             <tr>
-                                <!-- Column 1 -->
+                                <!-- Column 0 -->
                                 <th>Vendor</th>
 
-                                <!-- Column 2 -->
+                                <!-- Column 1 -->
                                 <th>Product</th>
 
-                                <!-- Column 3 -->
+                                <!-- Column 2 
+                                Warning: when changing the order, you need to update column number in the filterTable above. see "Adjusted to the column for Category" -->
                                 <th>Category</th>
 
-                                <!-- Column 4 -->
+                                <!-- Column 3 -->
                                 <th>PAL Risk Rating</th>
 
-                                <!-- Column 5 -->
+                                <!-- Column 4 -->
                                 <th>Accessible Percent</th>
 
-                                <!-- Column 6 -->
+                                <!-- Column 5 -->
                                 <th>WCAG A</th>
 
-                                <!-- Column 7 -->
+                                <!-- Column 6 -->
                                 <th>WCAG AA</th>
 
-                                <!-- Column 8 -->
+                                <!-- Column 7 -->
                                 <th>Accessibility Statement</th>
 
-                                <!-- Column 9 -->
+                                <!-- Column 8 -->
                                 <th>Accessibility Conformance Report (ACR)</th>
 
-                                <!-- Column 10 -->
+                                <!-- Column 9 -->
                                 <!-- <th>VPAT details</th> -->
 
 
@@ -125,10 +132,10 @@
                             foreach ($data as $row) {
                                 echo "<tr>";
 
-                                // Column 1
+                                // Column 0
                                 echo "<td><a href='" . htmlspecialchars($row['Vendor URL']) . "'>" . htmlspecialchars($row['Vendor']) . "</a></td>";
 
-                                // Column 2
+                                // Column 1
                                 // Check if Product URL has data
                                 if ($row['Product URL']) {
                                     echo "<td><a href='" . htmlspecialchars($row['Product URL']) . "'>" .
@@ -137,22 +144,23 @@
                                     echo "<td>" . htmlspecialchars($row['Product']) . "</td>";
                                 }
 
+                                // Column 2
+                                // Warning: when changing the order, you need to update column number in the filterTable above. see "Adjusted to the column for Category"
+                                echo "<td>" . htmlspecialchars($row['Category']) . "</td>";
+
                                 // Column 3
-                               echo "<td>" . htmlspecialchars($row['Category']) . "</td>";
-                                
-                                // Column 4
                                 echo "<td>" . htmlspecialchars($row['PAL Risk Rating']) . "</td>";
 
-                                // Column 5
+                                // Column 4
                                 echo "<td>" . htmlspecialchars($row['Accessible Percent'] * 100) . "%</td>";
 
-                                // Column 6
+                                // Column 5
                                 echo "<td>" . htmlspecialchars($row['WCAG A']) . "</td>";
 
-                                // Column 7
+                                // Column 6
                                 echo "<td>" . htmlspecialchars($row['WCAG AA']) . "</td>";
 
-                                // Column 8
+                                // Column 7
                                 // Check if Accessibility Statement data starts with "http"
                                 if (strpos($row['Accessibility Statement'], 'http') === 0) {
                                     echo "<td><a href='" . htmlspecialchars($row['Accessibility Statement']) . "'>" . htmlspecialchars($row['Product']) . " Accessibility Statement</a></td>";
@@ -160,7 +168,7 @@
                                     echo "<td>" . htmlspecialchars($row['Accessibility Statement']) . "</td>";
                                 }
 
-                                // Column 9
+                                // Column 8
                                 // Check if ACR data starts with "http"
                                 if (strpos($row['Accessibility Conformance Report (ACR)'], 'http') === 0) {
                                     echo "<td><a href='" . htmlspecialchars($row['Accessibility Conformance Report (ACR)']) . "'>" . htmlspecialchars($row['Product']) . " Accessibility Conformance Report (ACR)</a></td>";
@@ -168,7 +176,7 @@
                                     echo "<td>" . htmlspecialchars($row['Accessibility Conformance Report (ACR)']) . "</td>";
                                 }
 
-                                // Column 10
+                                // Column 09
                                 // echo "<td>" . htmlspecialchars($row['VPAT details']) . "</td>";
                                 echo "</tr>";
                             }
