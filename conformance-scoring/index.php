@@ -39,7 +39,7 @@
                             srcset="https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-267x68.png 267w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1-300x77.png 300w, https://ozewai.org/wp-content/uploads/2022/04/cropped-ozewai-logo-transparent-bg-1.png 447w"
                             sizes="(max-width: 267px) 100vw, 267px"></a></span>
                 <h1>Product Accessibility List (PAL) - BETA</h1>
-                <p>Date products recorded: 1 May 2024</p>
+                <p>Date products recorded: 31 May 2024</p>
                 <ul>
                     <li><a href="https://ozewai.org/resources/about-the-ozewai-product-accessibility-list-pal/">Read
                             about the Product Accessibility List (PAL)</a> and how products are scored</li>
@@ -60,6 +60,13 @@
                         assessment of product accessibility during the procurement process.</li>
                     <li>A PAL score may be out of date with a product’s latest ACR.</li>
                 </ul>
+                <h2>Scoring Legend</h2>
+<table><tr><th>Total WCAG Errors</th><th>Accessible Percent</th><th>Risk rating</th></tr>
+<tr><td>0 - 7</td><td>86%</td><td>Low risk</td></tr>
+<tr><td>8 - 10</td><td>80%</td><td>Medium risk</td></tr>
+<tr><td>11 - 16</td><td>68%</td><td>High risk</td></tr>
+<tr><td>17 - 50</td><td>66%</td><td>Very high risk</td></tr>
+</table>
 
                 <div class="nsw-form">
 
